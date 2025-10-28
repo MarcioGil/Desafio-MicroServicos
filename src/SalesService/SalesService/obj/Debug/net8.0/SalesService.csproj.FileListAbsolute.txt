@@ -1,0 +1,7 @@
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.csproj.AssemblyReference.cache
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.AssemblyInfoInputs.cache
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.AssemblyInfo.cs
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.csproj.CoreCompileInputs.cache
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.MvcApplicationPartsAssemblyInfo.cs
+/home/ubuntu/microservices-ecommerce/src/SalesService/SalesService/obj/Debug/net8.0/SalesService.MvcApplicationPartsAssemblyInfo.cache

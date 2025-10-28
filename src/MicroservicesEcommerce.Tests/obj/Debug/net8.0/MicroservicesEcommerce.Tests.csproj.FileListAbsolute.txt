@@ -1,0 +1,6 @@
+/home/ubuntu/microservices-ecommerce/src/MicroservicesEcommerce.Tests/obj/Debug/net8.0/MicroservicesEcommerce.Tests.csproj.AssemblyReference.cache
+/home/ubuntu/microservices-ecommerce/src/MicroservicesEcommerce.Tests/obj/Debug/net8.0/MvcTestingAppManifest.json
+/home/ubuntu/microservices-ecommerce/src/MicroservicesEcommerce.Tests/obj/Debug/net8.0/MicroservicesEcommerce.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/microservices-ecommerce/src/MicroservicesEcommerce.Tests/obj/Debug/net8.0/MicroservicesEcommerce.Tests.AssemblyInfoInputs.cache
+/home/ubuntu/microservices-ecommerce/src/MicroservicesEcommerce.Tests/obj/Debug/net8.0/MicroservicesEcommerce.Tests.AssemblyInfo.cs
+/home/ubuntu/microservices-ecommerce/src/MicroservicesEcommerce.Tests/obj/Debug/net8.0/MicroservicesEcommerce.Tests.csproj.CoreCompileInputs.cache
